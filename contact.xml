@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<employees>
+    <employee>  
+        <name>Mostafa</name>
+        <phones>
+            <phone type="home">0105215587</phone>
+            <phone type="work">010512254</phone>
+            <phone type="mobile">01052411552</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>ST.street</street>
+                <buildingnum>25</buildingnum>
+                <city>Cairo</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>Mostafa@yahoo.com</email>
+    </employee>
+    <employee>
+        <name>Mohamed</name>
+        <phones>
+            <phone type="home">0105215587</phone>
+            <phone type="work">010512254</phone>
+            <phone type="mobile">01052411552</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>ST.street</street>
+                <buildingnum>35</buildingnum>
+                <city>tanta</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>mohamed@yahoo.com</email>
+    </employee>
+<employee>  
+        <name>Ahmed</name>
+        <phones>
+            <phone type="home">25422251</phone>
+            <phone type="work">98223154</phone>
+            <phone type="mobile">22255884</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>ST.street</street>
+                <buildingnum>25</buildingnum>
+                <city>Cairo</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>ahmed@yahoo.com</email>
+    </employee>
+</employees>
